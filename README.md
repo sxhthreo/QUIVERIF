@@ -6,7 +6,7 @@ This repository provides two datasets, namely the vulnerability dataset and the 
 
 http://101.43.0.73:3456/
 
-\textbf{Usage Instructions}:
+**Usage Instructions**:
 
 - Submit the smart contract file to be verified (or use an example file)
 
