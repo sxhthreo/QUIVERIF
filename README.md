@@ -2,6 +2,16 @@
 
 This repository provides two datasets, namely the vulnerability dataset and the real-world dataset, aimed at evaluating the accuracy and effectiveness of QUIVERIF.
 
+# Online platform for vulnerability verification
+
+http://101.43.0.73:3456/
+
+- Submit the smart contract file to be verified (or use an example file)
+
+- Select the security properties for verification
+
+- Click "Run Detection" to start the verification
+
 ## References
 
 - [FASVERIF: Automated Inference on Financial Security of Ethereum Smart Contracts](https://www.usenix.org/conference/usenixsecurity23/presentation/wang-wansen)
