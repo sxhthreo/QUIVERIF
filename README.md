@@ -1,8 +1,4 @@
-# The dataset of QUIVERIF
-
-This repository provides two datasets, namely the vulnerability dataset and the real-world dataset, aimed at evaluating the accuracy and effectiveness of QUIVERIF.
-
-# Online platform for vulnerability verification
+# The online verification platform of QUIVERIF
 
 http://101.43.0.73:3456/
 
@@ -13,6 +9,10 @@ http://101.43.0.73:3456/
 - Select the security properties for verification
 
 - Click "Run Detection" to start the verification
+
+# The dataset of QUIVERIF
+
+This repository provides two datasets, namely the vulnerability dataset and the real-world dataset, aimed at evaluating the accuracy and effectiveness of QUIVERIF.
 
 ## References
 
